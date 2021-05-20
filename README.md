@@ -10,5 +10,5 @@ A collection of tutorial information and application examples for the sigpy-rf s
 
 
 # SLR introduction
-* Forward SLR Transform: The pulse is converted into two polynominals (alpha, beta, so called Cayley-Klein *CK* parameters). For this the pulse is discretized into a sequence of impulses/hard pulses. Then an off resonance precession follows which is then again followed by a hard pulse rotation and so on.
-** Off-resonance rotates the magnetization around the z-axis, hard pulses rotate the magnetization around an axis in the transverse plane.
+1. Forward SLR Transform: The pulse is converted into two polynominals (alpha, beta, so called Cayley-Klein **CK** parameters). For this the pulse is discretized into a sequence of impulses/hard pulses. Then an off resonance precession follows which is then again followed by a hard pulse rotation and so on.
+    1.1 Off-resonance rotates the magnetization around the z-axis, hard pulses rotate the magnetization around an axis in the transverse plane.
